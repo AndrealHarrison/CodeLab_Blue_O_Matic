@@ -31,6 +31,8 @@ import static com.example.background.Constants.KEY_IMAGE_URI;
 
 public class BlurWorker extends Worker {
 
+
+
     /**
      * Creates an instance of the {@link Worker}.
      *
